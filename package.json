@@ -25,6 +25,5 @@
         "@types/prop-types": "*",
         "@types/react": "*"
     },
-    "typesPublisherContentHash": "053c83abbf76758c7fc67dbd6afe283da375ed4a775a8284b28163848108fa76",
     "typeScriptVersion": "2.8"
 }
